@@ -24,6 +24,9 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![HPC](https://img.shields.io/badge/HPC-2C3E50?logo=linux&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1E90FF?logo=sas&logoColor=white)
+![JMP](https://img.shields.io/badge/JMP-2E8B57?logo=statistics&logoColor=white)
 
 ---
 
