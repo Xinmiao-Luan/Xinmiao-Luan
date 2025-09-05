@@ -67,7 +67,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xinmiao-luan-b34231216/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=A8wLai8AAAAJ)  
 📧 Email: **xluan3@asu.edu**
-
----
-
-![snake gif](https://github.com/Xinmiao-Luan/Xinmiao-Luan/blob/output/snake.svg)
