@@ -50,8 +50,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Xinmiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=<Xinmiao-Luan>&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<Xinmiao-Luan>&layout=compact&theme=radical)
+![Xinmiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xinmiao-Luan&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xinmiao-Luan&layout=compact&theme=radical)
 
 ---
 
@@ -70,4 +70,4 @@
 
 ---
 
-![snake gif](https://github.com/<Xinmiao-Luan>/<Xinmiao-Luan>/blob/output/snake.svg)
+![snake gif](https://github.com/Xinmiao-Luan/Xinmiao-Luan/blob/output/snake.svg)
