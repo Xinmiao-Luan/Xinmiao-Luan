@@ -70,4 +70,4 @@
 
 ---
 
-![snake gif](https://github.com/<YOUR_GITHUB_USERNAME>/<Xinmiao-Luan>/blob/output/snake.svg)
+![snake gif](https://github.com/<Xinmiao-Luan>/<Xinmiao-Luan>/blob/output/snake.svg)
