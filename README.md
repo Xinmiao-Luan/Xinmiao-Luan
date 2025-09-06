@@ -9,7 +9,7 @@
 - 📚 Advised by **Dr. Douglas C. Montgomery** and **Dr. Andi Wang**
 - 🧪 Researching **multimodal data fusion**, **acoustic emission (AE) analysis**, and **quality monitoring** in **additive manufacturing (AM)**
 - 💡 Passionate about **ML/AI applications** in real-time monitoring, anomaly detection, and intelligent manufacturing
-- 🎯 Career goal: Applied Scientist / Machine Learning Engineer roles in **AI, GenAI, Recommender Systems, and Intelligent Manufacturing**
+- 🎯 Career goal: Applied Scientist / Machine Learning Engineer roles in **AI, and Intelligent Manufacturing**
 - 🎓 Previous training in **Environmental Engineering** → applied data analysis in sustainability and water treatment
 
 ---
