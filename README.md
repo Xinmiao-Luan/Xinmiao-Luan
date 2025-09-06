@@ -32,7 +32,7 @@
 
 ## 📂 Featured Projects
 - 🔹 **Efficient Online Cross-Covariance Monitoring with Incremental SVD**  
-  [Paper](#) · Real-time anomaly detection in IoT and manufacturing streams
+  [Paper](https://onlinelibrary.wiley.com/doi/10.1002/qre.3761?af=R) · Real-time anomaly detection in IoT and manufacturing streams
 - 🔹 **Variational Autoencoder (VAE) for Acoustic Emission Data**  
   Latent-space clustering & anomaly detection on AE spectrograms
 - 🔹 **Process Data Fusion for DED**  
