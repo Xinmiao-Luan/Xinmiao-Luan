@@ -52,12 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Xinmiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xinmiao-Luan&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xinmiao-Luan&layout=compact&theme=radical)
-
----
-
 ## 🎨 Fun Facts
 - 🐟 Betta fish keeper (my fish’s name is **Cosmo**)
 - 🏖️ From Qingdao → I miss the beach & seafood
