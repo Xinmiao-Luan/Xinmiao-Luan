@@ -55,7 +55,7 @@
 ## 🎨 Fun Facts
 - 🐟 Betta fish keeper (my fish’s name is **Cosmo**)
 - 🏖️ From Qingdao → I miss the beach & seafood
-- 🖌️ Love painting
+- 🖌️⛰️ 🌄 🌲 Love painting & hiking & camping
 - 🎲 Enjoy playing **board games** (Heat, Coup, monopoly)
 
 ---
