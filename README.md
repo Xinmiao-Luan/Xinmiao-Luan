@@ -47,7 +47,7 @@
 ## 📝 Publications
 - Luan, X. et al. *Efficient online cross-covariance monitoring with incremental SVD: An approach for the detection of emerging dependency patterns in IoT systems.* Quality and Reliability Engineering International, 2025. [Link](https://onlinelibrary.wiley.com/doi/10.1002/qre.3761?af=R)
 - Fralick, C., Luan, X. *Applications in Graph Neural Networks.* IntechOpen, 2025. [Link](https://www.intechopen.com/online-first/1218903)
-- [Previous publications on enviroment engineering field] [Google Scholar](https://scholar.google.com/citations?hl=en&user=A8wLai8AAAAJ)
+- Several publications on enviroment engineering field: [Google Scholar](https://scholar.google.com/citations?hl=en&user=A8wLai8AAAAJ)
 - [More coming soon →] Luan, X. et al. *An exploratory analysis of ultrasound signatures in direct energy deposition building processes.*
 
 ---
