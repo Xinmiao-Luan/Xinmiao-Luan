@@ -38,7 +38,7 @@
 - 🔹 **Process Data Fusion for DED**  
   Integrated **AE, process logs, and CT-scan data** for porosity detection
 - 🔹 **Teaching Materials for IEE 572 (Design Engineering Experiments)**  
-  Supporting 120+ students with **Python & JMP examples**
+  [Link](https://www.coursera.org/specializations/design-experiments) ·Supporting 120+ students with **Python & JMP examples**
 - 🔹 **Environmental Engineering Analysis**  
   Applied statistical learning to **UV disinfection, water treatment, and sustainability data**
 
