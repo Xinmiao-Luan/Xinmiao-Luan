@@ -32,7 +32,7 @@
 
 ## 📂 Featured Projects
 - 🔹 **Two-Stage Routing for Small-Sample Defect Classification (Semiconductor Solutions Challenge – Intel & ASU)**  
-  · A hybrid ML pipeline using DINOv2 embeddings + KMeans routing + per-cluster classifiers
+  A hybrid ML pipeline using DINOv2 embeddings + KMeans routing + per-cluster classifiers
 - 🔹 **Efficient Online Cross-Covariance Monitoring with Incremental SVD**  
   [Link](https://onlinelibrary.wiley.com/doi/10.1002/qre.3761?af=R) · Real-time anomaly detection in IoT and manufacturing streams
 - 🔹 **Variational Autoencoder (VAE) for Acoustic Emission (AE) Data**  
@@ -51,6 +51,7 @@
 - Fralick, C., Luan, X. *Applications in Graph Neural Networks.* IntechOpen, 2025. [Link](https://www.intechopen.com/online-first/1218903)
 - Several publications on enviroment engineering field: [Google Scholar](https://scholar.google.com/citations?hl=en&user=A8wLai8AAAAJ)
 - [More coming soon →] Luan, X. et al. *An exploratory analysis of ultrasound signatures in direct energy deposition building processes.*
+- Luan, X. et al. * MT-SR-GMM: A Multi-Task Structure-Regularized Gaussian Mixture Model for Robust Cluster Analysis in Manufacturing Process. *
 
 ---
 
