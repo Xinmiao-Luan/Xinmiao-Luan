@@ -31,6 +31,8 @@
 ---
 
 ## 📂 Featured Projects
+- 🔹 **Two-Stage Routing for Small-Sample Defect Classification (Semiconductor Solutions Challenge – Intel & ASU)**  
+  · A hybrid ML pipeline using DINOv2 embeddings + KMeans routing + per-cluster classifiers
 - 🔹 **Efficient Online Cross-Covariance Monitoring with Incremental SVD**  
   [Link](https://onlinelibrary.wiley.com/doi/10.1002/qre.3761?af=R) · Real-time anomaly detection in IoT and manufacturing streams
 - 🔹 **Variational Autoencoder (VAE) for Acoustic Emission (AE) Data**  
